@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://github.com/jacksonsq97/homepage/blob/gh-pages/resume/QiangSu_CV.pdf
+resume-url: https://github.com/jacksonsq97/jacksonsq97.github.io/blob/master/resume/QiangSu_CV.pdf
 
-url: https://jacksonsq97.github.io/homepage/
+url: https://jacksonsq97.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
