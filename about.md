@@ -6,7 +6,7 @@ layout: page
 
 <p>
 
-I am a Ph.D. candidate in <a href="https://www.cs.cityu.edu.hk/">Department of Computer Science</a>, <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a>. My supervisor is <a href="https://henryhxu.github.io/">Prof. Hong Xu, Henry</a>. Before joining CityU in 2019, I received my B.E. in Computer Science and Technology from <a href="https://www.neu.edu.cn">Northeastern University(NEU)</a>.
+I am a Ph.D. candidate in <a href="https://www.cs.cityu.edu.hk/">Department of Computer Science</a>, <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a>. My supervisor is <a href="https://henryhxu.github.io/">Prof. Hong Xu, Henry</a>. Before joining CityU in 2019, I received my B.E. in Computer Science and Technology from <a href="www.neu.edu.cn">Northeastern University(NEU)</a>.
 
 </p>
 
