@@ -4,43 +4,42 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I am a Ph.D. candidate in <a href="https://www.cs.cityu.edu.hk/">Department of Computer Science</a>, <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a>. My supervisor is <a href="https://henryhxu.github.io/">Prof. Hong Xu, Henry</a>. Before joining CityU in 2019, I received my B.E. in Computer Science and Technology from <a href="https://www.neu.edu.cn">Northeastern University(NEU)</a>.
 
-<h2>Skills</h2>
+</p>
+
+<h2>Research Interests</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>High-Performace Networking in Containers</li>
+	<li>Network Stacks</li>
 </ul>
+
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">NetKernel</a></li>
+</ul>
+
+
+<h2>Skills</h2>
+
+<ul class="skill-list">
+	<li>C</li>
+	<li>C++</li>
+	<li>HTML, js, CSS</li>
+	<li>JAVA</li>
+	<li>MySQL</li>
+	<li>Git</li>
+</ul>
+
+<h2>Hobbies</h2>
+
+<ul class="skill-list">
+	<li>Basketball</li>
+	<li>Ping pong</li>
+	<li>Skating</li>
 </ul>
