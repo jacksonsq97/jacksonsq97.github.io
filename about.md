@@ -13,8 +13,7 @@ I am a Ph.D. candidate in <a href="https://www.cs.cityu.edu.hk/">Department of C
 <h2>Research Interests</h2>
 
 <ul class="skill-list">
-	<li>High-Performace Networking in Containers</li>
-	<li>Network Stacks</li>
+	<li>Datacenter Networking</li>
 </ul>
 
 
@@ -28,10 +27,7 @@ I am a Ph.D. candidate in <a href="https://www.cs.cityu.edu.hk/">Department of C
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>C</li>
-	<li>C++</li>
-	<li>HTML, js, CSS</li>
-	<li>JAVA</li>
+	<li>C, C++, JAVA</li>
 	<li>MySQL</li>
 	<li>Git</li>
 </ul>
