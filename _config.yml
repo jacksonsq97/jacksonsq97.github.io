@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://github.com/jacksonsq97/jacksonsq97.github.io/blob/master/resume/QiangSu_CV.pdf
+resume-url: /resume/QiangSU_CV.pdf
 
-url: https://jacksonsq97.github.io/
+url: https:jacksonsq97@github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -51,7 +51,7 @@ github: jacksonsq97
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: jacksonsq97@gmail.com
+email: qiang.su@my.cityu.edu.hk
 
 # authors:
 #    johndoe:
@@ -90,7 +90,7 @@ read-time: true
 show-tags: true
 
 # related posts inside a post?
-related: true
+related: false
 
 # Display links for next and previous posts for the specified categories
 post-advance-links: [blog]
@@ -99,7 +99,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 plugins:
   - jekyll-seo-tag
@@ -108,8 +108,8 @@ plugins:
   - jemoji
   - jekyll-admin
 
-jekyll-mentions:
-    base_url: https://github.com
+#jekyll-mentions:
+#    base_url: https://github.com
 
 compress_html:
     ignore:

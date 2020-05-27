@@ -2,40 +2,28 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>
+## Bio
 
-I am a Ph.D. candidate in <a href="https://www.cs.cityu.edu.hk/">Department of Computer Science</a>, <a href="https://www.cityu.edu.hk/">City University of Hong Kong</a>. My supervisor is <a href="https://henryhxu.github.io/">Prof. Hong Xu, Henry</a>. Before joining CityU in 2019, I received my B.E. in Computer Science and Technology from <a href="www.neu.edu.cn">Northeastern University(NEU)</a>.
-
-</p>
-
-<h2>Research Interests</h2>
-
-<ul class="skill-list">
-	<li>Datacenter Networking</li>
-</ul>
+I am a 1st year Ph.D. student in [Department of Computer Science](https://www.cs.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/). My supervisor is [Prof. Hong Xu, Henry](https://henryhxu.github.io/). Before joining CityU in 2019, I received my B.E. in Computer Science and Technology from [Northeastern University, China](https://www.neu.edu.cn).
 
 
-<h2>Projects</h2>
+## Research Interests
 
-<ul>
-	<li><a href="https://github.com/">NetKernel</a></li>
-</ul>
++ Datacenter Networking
 
+## Projects
 
-<h2>Skills</h2>
++ NetKernel
 
-<ul class="skill-list">
-	<li>C, C++, JAVA</li>
-	<li>MySQL</li>
-	<li>Git</li>
-</ul>
+## Publication
 
-<h2>Hobbies</h2>
+[1] Zhixiong Niu, Hong Xu, Peng Cheng, **Qiang Su**, Yongqiang Xiong, Tao Wang, Dongsu Han, Keith Winstein,
+NetKernel: Making Network Stack Part of the Virtualized Infrastructure. *To appear in* **USENIX ATC'20**
 
-<ul class="skill-list">
-	<li>Basketball</li>
-	<li>Ping pong</li>
-	<li>Skating</li>
-</ul>
+## Skills
+
++ C, C++, Python
++ Git, Linux
